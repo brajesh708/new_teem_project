@@ -1,0 +1,26 @@
+.reso{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+.reso a{
+    color: red;
+
+}
+.reso div{
+    padding: 80px;
+    justify-content: left;
+}
+.div1{
+    flex-basis: 180%;
+    background: #fff3f3;
+   /* border-radius: 5px;
+    margin-bottom: 1%;
+    padding: 10px;
+    box-sizing: border-box;
+    transition: 1.5s; */
+}
+.div1 h3{
+    color: rgb(14, 87, 87);
+}
