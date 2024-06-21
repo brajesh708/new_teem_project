@@ -1,0 +1,9 @@
+
+html{
+    overflow-x: hidden;
+}
+.partner{
+    background-color: rgb(247, 244, 240);
+    height: 100px;
+    width: 100px;
+}
