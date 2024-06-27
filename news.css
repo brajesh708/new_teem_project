@@ -1,0 +1,39 @@
+.news-section {
+ background-color: rgb(161, 158, 154,0.5);
+}
+
+.main-div{
+    display: flex;
+    justify-content: center;
+    
+}
+.main-container{
+   width: 350px;
+   margin: 20px;
+   background-color: white;
+}
+
+.img{
+    width: 350px;
+    height: 200px;
+}
+
+.main-contain{
+    margin: 20px;
+}
+
+#a-tage{
+    color: rgb(227, 111, 111);
+    font-size: 24px;
+
+}
+
+.discription{
+    line-height: 1.5;
+    margin: 20px  0px;
+}
+.news-btn{
+    border: none;
+    background-color: white;
+    color: rgb(227, 111, 111);
+}
